@@ -1,0 +1,36 @@
+@font-face{
+    font-family: 'ano2light';
+    src:url('ano2light.otf');
+  
+  }
+
+body{
+    font-family: 'ano2light';
+}
+.navbar{
+    justify-content: center;
+}
+.icon{
+    margin-right: auto;
+}
+#data{
+    background-color: antiquewhite;
+    opacity: 60%;
+    margin:0px;
+    padding:0px;
+    border-radius: 40%;
+    justify-content: center;
+    align-items: center;
+}
+.navbar{
+    opacity: 90%;
+}
+.container-fluid{
+    background-image: url('https://media.giphy.com/media/IuKnqFMhtcA2A/giphy.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-brand{
+    letter-spacing: 3px;
+    font-weight: bold;
+}
